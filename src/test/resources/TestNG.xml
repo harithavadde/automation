@@ -4,28 +4,28 @@
 
 	<test name ="PageObjectModel">
 		<classes>
-			<class name = "com.clairvyont.PageObjectModel.TestLoginPage"></class>		
+			<class name = "com.clairvoyant.pageobjectmodel.TestLoginPage"></class>		
 		</classes>		
 	</test>
 	<test name ="DataDrivenModel">
 		<classes>
-			<class name = "com.clairvyont.datadriven.DataDrivenTest"></class>
+			<class name = "com.clairvoyant.datadriven.DataDrivenTest"></class>
 		</classes>	
 	</test>
 	<test name = "SeleniumAll">
 		<classes>
-			<class name= "com.clairvyont.automation.SeleniumAllFunctions"></class>
+			<class name= "com.clairvoyant.automation.SeleniumAllFunctions"></class>
 		</classes>
 	
 	</test>
 	<test name = "jbehave">
 		<classes>
-			<class name = "com.clairvyont.jbehave.CountIncreaseTest"></class>
+			<class name = "com.clairvoyant.jbehave.CountIncreaseTest"></class>
 		</classes>
 	</test>
 	<test name = "cucumber">
 		<classes>
-			<class name = "com.clairvyont.cucumber.CountIncreaseCucumberTest"></class>
+			<class name = "com.clairvoyant.cucumber.CountIncreaseCucumberTest"></class>
 		</classes>
 	
 	</test>
